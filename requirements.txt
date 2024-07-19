@@ -1,0 +1,16 @@
+ultralytics
+opencv-python-headless
+Flask 
+opencv-python 
+pillow 
+numpy
+azure-storage-blob
+openai
+openpyxl
+python-dotenv
+google-cloud-vision
+google-api-python-client
+requests
+scikit-learn
+
+
