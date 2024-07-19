@@ -1,0 +1,1 @@
+# extract-img-text-from-google-cloud-vision
